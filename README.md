@@ -6,7 +6,9 @@ The way to play the game is very simple. You control the horizontal movement of 
 
 #IMAGES
 ![30](https://cloud.githubusercontent.com/assets/15057375/23365488/fad69df4-fd0b-11e6-871f-cdf3f076752f.png)
+
 ![31](https://cloud.githubusercontent.com/assets/15057375/23365492/fb08313e-fd0b-11e6-829d-117161bb7164.png)
+
 ![32](https://cloud.githubusercontent.com/assets/15057375/23365489/fadc59d8-fd0b-11e6-8851-fdd5e555ec5d.png)
 
 
